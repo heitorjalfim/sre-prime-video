@@ -1,0 +1,53 @@
+services:
+  storage:
+    build: ./app
+    profiles: ["distributed"]
+    environment:
+      APP_ROLE: storage
+    ports:
+      - "8081:8080"
+
+  detector-a:
+    build: ./app
+    profiles: ["distributed"]
+    environment:
+      APP_ROLE: detector-a
+      STORAGE_URL: http://storage:8080
+    ports:
+      - "8082:8080"
+    depends_on:
+      - storage
+
+  detector-b:
+    build: ./app
+    profiles: ["distributed"]
+    environment:
+      APP_ROLE: detector-b
+      STORAGE_URL: http://storage:8080
+    ports:
+      - "8083:8080"
+    depends_on:
+      - storage
+
+  orchestrator:
+    build: ./app
+    profiles: ["distributed"]
+    environment:
+      APP_ROLE: orchestrator
+      STORAGE_URL: http://storage:8080
+      DETECTOR_A_URL: http://detector-a:8080
+      DETECTOR_B_URL: http://detector-b:8080
+    ports:
+      - "8080:8080"
+    depends_on:
+      - storage
+      - detector-a
+      - detector-b
+
+  monolith:
+    build: ./app
+    profiles: ["monolith"]
+    environment:
+      APP_ROLE: monolith
+    ports:
+      - "8080:8080"

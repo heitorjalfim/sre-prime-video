@@ -1,0 +1,203 @@
+﻿[
+    {
+        "frameId":  "frame-1",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  14,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-2",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  3,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-3",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  2,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-4",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  2,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-5",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  3,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-6",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  2,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-7",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  2,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-8",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  1,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-9",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  1,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-10",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  3,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-11",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  2,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-12",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  1,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-13",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  1,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-14",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  2,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-15",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  1,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-16",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  1,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-17",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  2,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-18",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  1,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-19",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  2,
+        "summary":  "ok:detector:detector"
+    },
+    {
+        "frameId":  "frame-20",
+        "mode":  "monolith",
+        "framesProcessed":  1,
+        "transitions":  0,
+        "storagePuts":  0,
+        "storageGets":  0,
+        "durationMs":  2,
+        "summary":  "ok:detector:detector"
+    }
+]
+SUMMARY: mode=monolith totalRequests=20 elapsedSec=1.568 throughputRps=12.76 estimatedCostUsd=0.002
